@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "portafolio"
+  "defaultProject": "portafolio",
+  "cli": {
+    "analytics": "11e661ff-56df-4a3f-af96-b39ccf7dbb7b"
+  }
 }
